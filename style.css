@@ -12,6 +12,13 @@
     height: 100%;
     }
 
+    :root
+    {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+    }
+
     .cartao__conteudo h3 {
         background-color: tomato;
         text-align: left;
